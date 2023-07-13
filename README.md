@@ -83,5 +83,5 @@
 <details>
   <summary><b>Favorite Repositories</b></summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegrafHandler&theme=dark)](https://github.com/Isaagh3v0/telegrafHandler)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegraf-handler&theme=dark)](https://github.com/Isaagh3v0/telegrafHandler)
 </details>
