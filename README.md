@@ -77,13 +77,7 @@
 
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaagh3v0&show_icons=true&theme=dark)](https://github.com/Isaagh3v0)
 
-  [![GitHub Trends](https://api.githubtrends.io/user/svg/excalgm/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://github.com/Isaagh3v0)
-</details>
-
-<details>
-  <summary><b>WakaTime Stats</b></summary>
-
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Isaagh3v0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Trends](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaagh3v0&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/Isaagh3v0)
 </details>
 
 <details>
