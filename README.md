@@ -1,4 +1,15 @@
-<h2 align="center">I am backend developer, i like to learn new and useful things.</h2>
+<div align="center">
+  <img alt="ELOGO" src="assets/enigmalogo.png" height="70"/><br>
+  <h2>ENIGMA <a href="https://github.com/Isaagh3v0">(Isaagh3v0)</a></h2>
+  <a href="https://github.com/Isaagh3v0"><img alt="US" src="https://komarev.com/ghpvc/?username=Isaagh3v0&color=red"/></a>
+</div>
+
+<div align="center">
+  <h3>I am</h3>
+  <h4>-> <a href="https://www.python.org">Python</a> Developer <-</h4>
+  <h4>-> <a href="https://www.javascript.com">JavaScript</a> Developer <-</h4>
+  <h4>-> <a href="https://www.typescriptlang.org">TypeScript</a> Developer <-</h4>
+</div>
 
 <hr>
 
@@ -48,12 +59,35 @@
   <a aria-label="DISCORD" href="https://discordapp.com/users/489298775400120331">
     <img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-brightgreen?style=for-the-badge&logo=discord&color=black">
   </a>
+  <a aria-label="VK" href="https://vk.com/nahmneimya">
+    <img alt="Static Badge" src="https://img.shields.io/badge/VK-brightgreen?style=for-the-badge&logo=vk&color=black&logoColor=blue">
+  </a>
 </div>
 
 <hr>
 
-<div align="center">
-  <img alt="statistic" src="https://github-readme-stats.vercel.app/api?username=Isaagh3v0&show_icons=true&theme=dark"/>
-  <hr>
-  <img alt="statwo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaagh3v0&size_weight=0.5&count_weight=0.5&theme=dark"/>
-</div>
+<details>
+  <summary><b>Discord Presence</b></summary>
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/489298775400120331)](https://discord.com/users/489298775400120331)
+</details>
+
+<details>
+  <summary><b>GitHub Stats</b></summary>
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaagh3v0&show_icons=true&theme=dark)](https://github.com/Isaagh3v0)
+
+  [![GitHub Trends](https://api.githubtrends.io/user/svg/excalgm/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://github.com/Isaagh3v0)
+</details>
+
+<details>
+  <summary><b>WakaTime Stats</b></summary>
+
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Isaagh3v0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary><b>Favorite Repositories</b></summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegrafHandler&theme=dark)](https://github.com/Isaagh3v0/telegrafHandler)
+</details>
