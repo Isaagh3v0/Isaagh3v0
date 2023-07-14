@@ -85,3 +85,10 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegraf-handler&theme=dark)](https://github.com/Isaagh3v0/telegrafHandler)
 </details>
+
+<details>
+  <summary><b>WakaTime</b></summary>
+
+  [![Isaagh3v0 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Isaagh3v0&layout=compact&theme=dark)](https://wakatime.com/@Isaagh3v0)
+
+</details>
