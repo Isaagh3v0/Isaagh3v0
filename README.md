@@ -47,6 +47,8 @@
   </a>
   <a aria-label="MYSQL" href="https://www.mysql.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-brightgreen?style=for-the-badge&logo=mysql&color=black&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/KOTLIN-brightgreen?style=for-the-badge&logo=kotlin&color=black&logoColor=pink">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GOLANG-brightgreen?style=for-the-badge&logo=go&color=black">
   </a>
 </div>
 
