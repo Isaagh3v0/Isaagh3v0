@@ -1,7 +1,5 @@
 <div align="center">
-  <img alt="ELOGO" src="assets/enigmalogo.png" height="70"/><br>
-  <h2>ENIGMA <a href="https://github.com/Isaagh3v0">(Isaagh3v0)</a></h2>
-  <a href="https://github.com/Isaagh3v0"><img alt="US" src="https://komarev.com/ghpvc/?username=Isaagh3v0&color=red"/></a>
+  <img alt="ELOGO" src="assets/enigma-new-logo.png" height="70" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
@@ -9,60 +7,60 @@
   <h4>-> <a href="https://www.python.org">Python</a> Developer <-</h4>
   <h4>-> <a href="https://www.javascript.com">JavaScript</a> Developer <-</h4>
   <h4>-> <a href="https://www.typescriptlang.org">TypeScript</a> Developer <-</h4>
+  <h4>-> <a href="https://medium.com/meverse/what-is-blockchain-and-what-is-it-for-761926fdbbea">Blockchain</a> Developer <-</h4>
+  <h4>-> <a href="https://www.microsoft.com/en-in/security/business/security-101/what-is-cybersecurity">Cybersecurity</a> Enthusiast <-</h4>
 </div>
 
 <hr>
 
-<h4 align="center">Languages and Tools</h4>
+<h4 align="center">Professional Languages and Tools</h4>
 <div align="center">
-  <a aria-label="JS" href="https://www.javascript.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-brightgreen?style=for-the-badge&logo=javascript&color=black">
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NESTJS-brightgreen?style=for-the-badge&logo=nestjs&color=black">
   </a>
-  <a aria-label="PYTHON" href="https://www.python.org">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&logo=python&color=black&logoColor=green">
+  <a href="https://kafka.apache.org/">
+    <img src="https://img.shields.io/badge/KAFKA-brightgreen?style=for-the-badge&logo=apachekafka&color=black">
   </a>
-  <a aria-label="TS" href="https://www.typescriptlang.org/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-brightgreen?style=for-the-badge&logo=typescript&color=black">
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/GOLANG-brightgreen?style=for-the-badge&logo=go&color=black">
   </a>
-  <a aria-label="REACT" href="https://react.dev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/REACT-brightgreen?style=for-the-badge&logo=react&color=black">
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/POSTGRESQL-brightgreen?style=for-the-badge&logo=postgresql&color=black">
   </a>
-  <a aria-label="UBUNTU" href="https://ubuntu.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/UBUNTU-brightgreen?style=for-the-badge&logo=ubuntu&color=black">
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/SCSS-brightgreen?style=for-the-badge&logo=sass&color=black">
   </a>
-  <a aria-label="SASS" href="https://sass-lang.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-brightgreen?style=for-the-badge&logo=sass&color=black">
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/REACT_NATIVE-brightgreen?style=for-the-badge&logo=react&color=black">
   </a>
-  <a aria-label="VUE" href="https://vuejs.org">
-    <img alt="Static Badge" src="https://img.shields.io/badge/VUE-brightgreen?style=for-the-badge&logo=vue.js&color=black">
-  </a>
-  <a aria-label="DOCKER" href="https://www.docker.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-brightgreen?style=for-the-badge&logo=docker&color=black">
-  </a>
-  <a aria-label="NGINX" href="https://www.nginx.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-brightgreen?style=for-the-badge&logo=nginx&color=black">
-  </a>
-  <a aria-label="PRISMA" href="https://prisma.io">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PRISMA-brightgreen?style=for-the-badge&logo=prisma&color=black">
-  </a>
-  <a aria-label="MYSQL" href="https://www.mysql.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-brightgreen?style=for-the-badge&logo=mysql&color=black&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/KOTLIN-brightgreen?style=for-the-badge&logo=kotlin&color=black&logoColor=pink">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GOLANG-brightgreen?style=for-the-badge&logo=go&color=black">
+  <a href="https://expo.dev/">
+    <img src="https://img.shields.io/badge/EXPO-brightgreen?style=for-the-badge&logo=expo&color=black">
   </a>
 </div>
 
+<h4 align="center">Coming Soon Projects</h4>
+<div align="center">
+  <a href="https://holy.az">
+    <img src="https://img.shields.io/badge/HOLY_Project-brightgreen?style=for-the-badge&color=black">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HOLY_ID-brightgreen?style=for-the-badge&color=black">
+  </a>
+  <a href="https://radio.holy.az">
+    <img src="https://img.shields.io/badge/HOLY_Radio-brightgreen?style=for-the-badge&color=black">
+  </a>
+</div>
 
 <h4 align="center">Follow Me</h4>
 <div align="center">
-  <a aria-label="TELEGRAM" href="https://t.me/nahmnenickname">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&color=black">
+  <a href="https://t.me/nahmnenickname">
+    <img src="https://img.shields.io/badge/TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&color=black">
   </a>
-  <a aria-label="DISCORD" href="https://discordapp.com/users/489298775400120331">
-    <img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-brightgreen?style=for-the-badge&logo=discord&color=black">
+  <a href="https://discordapp.com/users/489298775400120331">
+    <img src="https://img.shields.io/badge/DISCORD-brightgreen?style=for-the-badge&logo=discord&color=black">
   </a>
-  <a aria-label="VK" href="https://vk.com/nahmneimya">
-    <img alt="Static Badge" src="https://img.shields.io/badge/VK-brightgreen?style=for-the-badge&logo=vk&color=black&logoColor=blue">
+  <a href="https://vk.com/nahmneimya">
+    <img src="https://img.shields.io/badge/VK-brightgreen?style=for-the-badge&logo=vk&color=black&logoColor=blue">
   </a>
 </div>
 
@@ -70,27 +68,31 @@
 
 <details>
   <summary><b>Discord Presence</b></summary>
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/489298775400120331)](https://discord.com/users/489298775400120331)
+  <a href="https://discord.com/users/489298775400120331">
+    <img src="https://lanyard.cnrad.dev/api/489298775400120331">
+  </a>
 </details>
 
 <details>
   <summary><b>GitHub Stats</b></summary>
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaagh3v0&show_icons=true&theme=dark)](https://github.com/Isaagh3v0)
-
-  [![GitHub Trends](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaagh3v0&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/Isaagh3v0)
+  <a href="https://github.com/Isaagh3v0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Isaagh3v0&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/Isaagh3v0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaagh3v0&size_weight=0.5&count_weight=0.5&theme=dark">
+  </a>
 </details>
 
 <details>
   <summary><b>Favorite Repositories</b></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegraf-handler&theme=dark)](https://github.com/Isaagh3v0/telegrafHandler)
+  <a href="https://github.com/Isaagh3v0/telegrafHandler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegraf-handler&theme=dark">
+  </a>
 </details>
 
 <details>
   <summary><b>WakaTime</b></summary>
-
-  [![Isaagh3v0 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Isaagh3v0&layout=compact&theme=dark)](https://wakatime.com/@Isaagh3v0)
-
+  <a href="https://wakatime.com/@Isaagh3v0">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isaagh3v0&layout=compact&theme=dark">
+  </a>
 </details>
