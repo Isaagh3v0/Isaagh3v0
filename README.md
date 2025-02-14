@@ -88,6 +88,14 @@
   <a href="https://github.com/Isaagh3v0/telegrafHandler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegraf-handler&theme=dark">
   </a>
+  <hr />
+  <a href="https://github.com/Isaagh3v0/telegram-autoanswer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=telegram-autoanswer&theme=dark">
+  </a>
+  <hr />
+  <a href="https://github.com/Isaagh3v0/dexenbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaagh3v0&repo=dexenbot&theme=dark">
+  </a>
 </details>
 
 <details>
